@@ -46,7 +46,7 @@
     background-color: #e6e6e6;
     transition: all 0.2s;
   }
-  
+/*   
   .banner--fadeBottom {
   
     height: 7.4rem;
@@ -55,6 +55,6 @@
       transparent,
       rgba(37, 37, 37, 0.61),
       #111
-    );
-  }
+    ); 
+  }*/
   
