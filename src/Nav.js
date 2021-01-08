@@ -17,11 +17,7 @@ import './Nav.css';
       
     return (
         <div className={`nav ${show && "nav__black"}`}>
-            <img
-                className="nav__logo"
-                src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png"
-                alt="Netflix Logo"
-            />
+            <h3 className="nav__logo">Netflix</h3>
 
             <img
                 className="nav__avatar"
